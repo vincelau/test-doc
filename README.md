@@ -8,3 +8,5 @@ test-doc
 [un exemple][id]
 
 [id]: http://exemple.com/  "Titre facultatif"
+
+[Daring Fireball]: http://daringfireball.net/
